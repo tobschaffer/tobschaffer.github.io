@@ -14,8 +14,6 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 
 **Vorlesung Mathematische Grundlagen**  
 
-Skript:  
-
 AN01 Analysis - Funktionen  
 AN02 Analysis - Folgen und Reihen  
 AN03 Analysis - Differentialrechnung  
@@ -30,8 +28,6 @@ KM02 Komplexe Zahlen - Anwendungen
 
 **Vorlesung Ingenieurmathematik 2**  
 
-Skript:  
-
 DG01 Gew. Differentialgleichungen - Grundlagen  
 DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden   
 DG03 Gew. Differentialgleichungen - Numerische Methoden  
@@ -40,8 +36,6 @@ TR01 Transformationen - Fourier Transformation
 TR02 Transformationen - Laplace Transformation  
 
 **Vorlesung Simulationstechnik** 
-
-Skript:  
  
 SI01 Simulationstechnik - Grundlagen  
 SI02 Simulationstechnik - Mehrkörpersimulation  

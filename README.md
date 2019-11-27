@@ -1,7 +1,11 @@
 # Tobias Schaffer
 
-## Vorlesungen Technologie Campus Cham - TH Deggendorf
+[Vorlesungen](#vorlesungen)
+[Kontakt & CV](#kontakt-&-cv)
 
+## Vorlesungen
+
+Technologie Campus Cham - TH Deggendorf  
 Bachelor Digitale Produktion/Bachelor Mechatronik Dual  
 
 ### Wintersemester 2019/20:

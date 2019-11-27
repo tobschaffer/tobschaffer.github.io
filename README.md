@@ -10,7 +10,7 @@
 Technologie Campus Cham - TH Deggendorf  
 Bachelor Digitale Produktion/Bachelor Mechatronik Dual  
 
-**Wintersemester 2019/20:**   
+### Wintersemester 2019/20  
 
 **Vorlesung Mathematische Grundlagen**  
 

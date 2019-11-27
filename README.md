@@ -1,7 +1,7 @@
 # Tobias Schaffer
 
-[Vorlesungen](#vorlesungen)
-[Kontakt & CV](#kontakt-&-cv)
+[Vorlesungen](#vorlesungen)  
+[Kontakt & CV](#kontakt--cv)
 
 ## Vorlesungen
 

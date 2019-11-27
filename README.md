@@ -111,10 +111,10 @@ Kirchstr. 13
 93199 Zell  
 
 Telefon: 09468 309689-0  
-schaffer.tobias@gmail.com  
+[schaffer.tobias@gmail.com](schaffer.tobias@gmail.com)  
 
-twitter.com/schaffertobias  
-github.com/tobschaffer  
+[twitter.com/schaffertobias](twitter.com/schaffertobias)  
+[github.com/tobschaffer](github.com/tobschaffer)  
 
 **Seit 2019**  
 Doktorarbeit am Institut für Biophysik, Universität Regensburg.  
@@ -128,7 +128,7 @@ Lehrauftrag am Technologie Campus Cham, TH Deggendorf.
 Vorlesungen Ingenieurmathematik, Statistik, Physik, Simulationstechnik  
 
 **Seit 2011:**  
-Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, Regensburg   
+Leiter Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, Regensburg   
 
 **2004 bis 2010:**  
 Studium Mathematik und Philosophie, Universität Regensburg  

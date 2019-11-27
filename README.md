@@ -1,16 +1,20 @@
 # Tobias Schaffer
 
-[Vorlesungen](#vorlesungen)  
+[Aktuelle Vorlesungen](#aktuelle-vorlesungen)  
+[Vergangene Vorlesungen](#vergangene-vorlesungen)  
 [Kontakt & CV](#kontakt--cv)
 
-## Vorlesungen
+
+## Aktuelle Vorlesungen
 
 Technologie Campus Cham - TH Deggendorf  
 Bachelor Digitale Produktion/Bachelor Mechatronik Dual  
 
-### Wintersemester 2019/20:
+**Wintersemester 2019/20:**   
 
 **Vorlesung Mathematische Grundlagen**  
+
+Skript:  
 
 AN01 Analysis - Funktionen  
 AN02 Analysis - Folgen und Reihen  
@@ -26,6 +30,8 @@ KM02 Komplexe Zahlen - Anwendungen
 
 **Vorlesung Ingenieurmathematik 2**  
 
+Skript:  
+
 DG01 Gew. Differentialgleichungen - Grundlagen  
 DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden   
 DG03 Gew. Differentialgleichungen - Numerische Methoden  
@@ -34,13 +40,15 @@ TR01 Transformationen - Fourier Transformation
 TR02 Transformationen - Laplace Transformation  
 
 **Vorlesung Simulationstechnik** 
+
+Skript:  
  
 SI01 Simulationstechnik - Grundlagen  
 SI02 Simulationstechnik - Mehrkörpersimulation  
 SI03 Simulationstechnik - Dynamische Systeme  
 SI04 Simulationstechnik - FEM Simulation  
 
-### vergangene Semester  
+## Vergangene Vorlesungen  
 
 **Sommersemester 2019:**  
 
@@ -117,18 +125,18 @@ Telefon: 09468 309689-0
 [github.com/tobschaffer](http://github.com/tobschaffer)  
 
 **Seit 2019**  
-Doktorarbeit am Institut für Biophysik, Universität Regensburg.  
+Doktorarbeit am Institut für Biophysik, Universität Regensburg  
 Computational Intelligence and Machine Learning Group, Prof. Dr. Elmar Lang  
 
 **Seit 2017**   
-Selbstständige Tätigkeit, Gründung Schaffer IT  
+Selbstständige Tätigkeit, Gründung Schaffer IT, [schafferit.de](http://www.schafferit.de)  
 
 **Seit 2013:**  
-Lehrauftrag am Technologie Campus Cham, TH Deggendorf.  
+Lehrauftrag am Technologie Campus Cham, TH Deggendorf  
 Vorlesungen Ingenieurmathematik, Statistik, Physik, Simulationstechnik  
 
 **Seit 2011:**  
-Leiter Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, Regensburg   
+Leiter Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, [nohau-gmbh.de](http://www.nohau-gmbh.de)   
 
 **2004 bis 2010:**  
 Studium Mathematik und Philosophie, Universität Regensburg  

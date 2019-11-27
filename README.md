@@ -36,7 +36,7 @@ SI02 Simulationstechnik - Mehrkörpersimulation
 SI03 Simulationstechnik - Dynamische Systeme  
 SI04 Simulationstechnik - FEM Simulation  
 
-### vorherige Semester
+### vergangene Semester  
 
 **Sommersemester 2019:**  
 
@@ -99,3 +99,33 @@ Statistik
 **Wintersemester 2013/14:**  
 
 Ingenieurmathematik 2  
+
+## Kontakt & CV
+
+**Tobias Schaffer**  
+Kirchstr. 13  
+93199 Zell  
+
+Telefon: 09468 309689-0  
+schaffer.tobias@gmail.com  
+
+twitter.com/schaffertobias  
+github.com/tobschaffer  
+
+**Seit 2019**  
+Doktorarbeit am Institut für Biophysik, Universität Regensburg.  
+Computational Intelligence and Machine Learning Group, Prof. Dr. Elmar Lang  
+
+**Seit 2017**   
+Selbstständige Tätigkeit, Gründung Schaffer IT  
+
+**Seit 2013:**  
+Lehrauftrag am Technologie Campus Cham, TH Deggendorf.  
+Vorlesungen Ingenieurmathematik, Statistik, Physik, Simulationstechnik  
+
+**Seit 2011:**  
+Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, Regensburg   
+
+**2004 bis 2010:**  
+Studium Mathematik und Philosophie, Universität Regensburg  
+Schwerpunkt Zahlentheorie, Homologische Algebra, Abschluss Dipl.-Math. Univ.  

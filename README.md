@@ -7,32 +7,32 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 ### Wintersemester 2019/20:
 
 **Vorlesung Mathematische Grundlagen**  
-AN01 Analysis - Funktionen
-AN02 Analysis - Folgen und Reihen
-AN03 Analysis - Differentialrechnung
-AN04 Analysis - Integralrechnung
-LA01 Lineare Algebra - Vektoren
-LA02 Lineare Algebra - Matrizen 
-LA03 Lineare Algebra - Lineare Gleichungssysteme
-LA04 Lineare Algebra - Determinanten
-LA05 Lineare Algebra - Eigenwerte
-KM01 Komplexe Zahlen - Grundlagen
-KM02 Komplexe Zahlen - Anwendungen
+AN01 Analysis - Funktionen  
+AN02 Analysis - Folgen und Reihen  
+AN03 Analysis - Differentialrechnung  
+AN04 Analysis - Integralrechnung  
+LA01 Lineare Algebra - Vektoren  
+LA02 Lineare Algebra - Matrizen   
+LA03 Lineare Algebra - Lineare Gleichungssysteme  
+LA04 Lineare Algebra - Determinanten  
+LA05 Lineare Algebra - Eigenwerte  
+KM01 Komplexe Zahlen - Grundlagen  
+KM02 Komplexe Zahlen - Anwendungen  
 
 **Vorlesung Ingenieurmathematik 2**  
 
-DG01 Gew. Differentialgleichungen - Grundlagen
-DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden 
-DG03 Gew. Differentialgleichungen - Numerische Methoden
-DG04 Gew. Differentialgleichungen - Anwendungen
-TR01 Transformationen - Fourier Transformation
-TR02 Transformationen - Laplace Transformation
+DG01 Gew. Differentialgleichungen - Grundlagen  
+DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden   
+DG03 Gew. Differentialgleichungen - Numerische Methoden  
+DG04 Gew. Differentialgleichungen - Anwendungen  
+TR01 Transformationen - Fourier Transformation  
+TR02 Transformationen - Laplace Transformation  
 
 **Vorlesung Simulationstechnik**  
-SI01 Simulationstechnik - Grundlagen
-SI02 Simulationstechnik - Mehrkörpersimulation
-SI03 Simulationstechnik - Dynamische Systeme
-SI04 Simulationstechnik - FEM Simulation
+SI01 Simulationstechnik - Grundlagen  
+SI02 Simulationstechnik - Mehrkörpersimulation  
+SI03 Simulationstechnik - Dynamische Systeme  
+SI04 Simulationstechnik - FEM Simulation  
 
 ### vorherige Semester
 

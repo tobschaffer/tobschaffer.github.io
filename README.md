@@ -111,10 +111,10 @@ Kirchstr. 13
 93199 Zell  
 
 Telefon: 09468 309689-0  
-[schaffer.tobias@gmail.com](schaffer.tobias@gmail.com)  
+[schaffer.tobias@gmail.com](mailto:schaffer.tobias@gmail.com)  
 
-[twitter.com/schaffertobias](twitter.com/schaffertobias)  
-[github.com/tobschaffer](github.com/tobschaffer)  
+[twitter.com/schaffertobias](http://twitter.com/schaffertobias)  
+[github.com/tobschaffer](http://github.com/tobschaffer)  
 
 **Seit 2019**  
 Doktorarbeit am Institut für Biophysik, Universität Regensburg.  

@@ -113,7 +113,7 @@ Kirchstr. 13
 Telefon: 09468 309689-0  
 [schaffer.tobias@gmail.com](mailto:schaffer.tobias@gmail.com)  
 
-[twitter.com/schaffertobias](http://twitter.com/schaffertobias)  
+[twitter.com/tobschaffer](http://twitter.com/tobschaffer)  
 [github.com/tobschaffer](http://github.com/tobschaffer)  
 
 **Seit 2019**  

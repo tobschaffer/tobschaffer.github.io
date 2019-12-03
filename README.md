@@ -15,39 +15,48 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 **Vorlesung Mathematische Grundlagen**  
 
 AN01 Analysis - Funktionen  
-AN02 Analysis - Folgen und Reihen  
-AN03 Analysis - Differentialrechnung  
-AN04 Analysis - Integralrechnung  
+AN02 Analysis - Differentialrechnung  
+AN03 Analysis - Integralrechnung  
 LA01 Lineare Algebra - Vektoren  
 LA02 Lineare Algebra - Matrizen   
-LA03 Lineare Algebra - Lineare Gleichungssysteme  
-LA04 Lineare Algebra - Determinanten  
-LA05 Lineare Algebra - Eigenwerte  
+LA03 Lineare Algebra - Determinanten    
 KM01 Komplexe Zahlen - Grundlagen  
-KM02 Komplexe Zahlen - Anwendungen  
 
 **Vorlesung Ingenieurmathematik 2**  
 
 DG01 Gew. Differentialgleichungen - Grundlagen  
 DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden   
 DG03 Gew. Differentialgleichungen - Numerische Methoden  
-DG04 Gew. Differentialgleichungen - Anwendungen  
-TR01 Transformationen - Fourier Transformation  
-TR02 Transformationen - Laplace Transformation  
+DG04 Gew. Differentialgleichungen - Laplace Transformation    
+VA02 Vektoranalysis - Differentialoperatoren  
+VA03 Vektoranalysis - Integralsätze  
 
 **Vorlesung Simulationstechnik** 
  
 SI01 Simulationstechnik - Grundlagen  
 SI02 Simulationstechnik - Mehrkörpersimulation  
-SI03 Simulationstechnik - Dynamische Systeme  
+SI03 Simulationstechnik - Lineare zeitinvariante Systeme  
 SI04 Simulationstechnik - FEM Simulation  
 
 ## Vergangene Vorlesungen  
 
-**Sommersemester 2019:**  
+### Sommersemester 2019:  
 
-Ingenieurmathematik 1  
-Statistik  
+**Vorlesung Ingenieurmathematik 1**  
+
+AN04 Analysis - Extremwertberechnung und Optimierung   
+AN05 Analysis - Folgen und Reihen   
+LA04 Lineare Algebra - Lineare Gleichungssysteme   
+LA05 Lineare Algebra - Eigenwerte  
+KM02 Komplexe Zahlen - Anwendungen  
+VA01 Vektoranalysis - Skalar- und Vektorfelder  
+
+**Vorlesung Statistik**   
+
+ST01 Statistik - Fehler- und Ausgleichsrechnung  
+ST02 Statistik - Wahrscheinlichkeitstheorie  
+ST03 Statistik - Deskriptive Statistik  
+ST04 Statistik - Induktive Statistik  
 
 **Wintersemester 2018/19:**   
 

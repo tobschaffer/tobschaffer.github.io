@@ -124,8 +124,8 @@ Kirchstr. 13
 Telefon: 09468 309689-0  
 [schaffer.tobias@gmail.com](mailto:schaffer.tobias@gmail.com)  
 
-[twitter.com/tobschaffer](http://twitter.com/tobschaffer)  
-[github.com/tobschaffer](http://github.com/tobschaffer)  
+[twitter.com/tobschaffer](http://twitter.com/tobschaffer){:target="_blank"}     
+[github.com/tobschaffer](http://github.com/tobschaffer){:target="_blank"}     
 
 **Seit 2019**  
 Doktorarbeit am Institut für Biophysik, Universität Regensburg  

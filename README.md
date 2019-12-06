@@ -2,7 +2,7 @@
 
 [Aktuelle Vorlesungen](#aktuelle-vorlesungen)  
 [Vergangene Vorlesungen](#vergangene-vorlesungen)  
-[Kontakt & CV](#kontakt--cv)
+[Kontakt](#kontakt)
 
 
 ## Aktuelle Vorlesungen
@@ -115,7 +115,7 @@ Statistik
 
 Ingenieurmathematik 2  
 
-## Kontakt & CV
+## Kontakt
 
 **Tobias Schaffer**  
 Kirchstr. 13  

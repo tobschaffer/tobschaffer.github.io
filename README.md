@@ -132,14 +132,14 @@ Doktorarbeit am Institut für Biophysik, Universität Regensburg
 Computational Intelligence and Machine Learning Group, Prof. Dr. Elmar Lang  
 
 **Seit 2017**   
-Selbstständige Tätigkeit, Gründung Schaffer IT, [schafferit.de](http://www.schafferit.de)  
+Selbstständige Tätigkeit Schaffer IT, [schafferit.de](http://www.schafferit.de){:target="_blank"}    
 
 **Seit 2013:**  
 Lehrauftrag am Technologie Campus Cham, TH Deggendorf  
 Vorlesungen Ingenieurmathematik, Statistik, Physik, Simulationstechnik  
 
 **Seit 2011:**  
-Leiter Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, [nohau-gmbh.de](http://www.nohau-gmbh.de)   
+Leiter Softwareentwicklung, Nohau Industrieelektronik Produktionssysteme GmbH, [nohau-gmbh.de](http://www.nohau-gmbh.de){:target="_blank"}     
 
 **2004 bis 2010:**  
 Studium Mathematik und Philosophie, Universität Regensburg  

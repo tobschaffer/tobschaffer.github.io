@@ -49,7 +49,7 @@ AN05 Analysis - Folgen und Reihen
 LA04 Lineare Algebra - Lineare Gleichungssysteme   
 LA05 Lineare Algebra - Eigenwerte  
 KM02 Komplexe Zahlen - Anwendungen  
-[VA01 Vektoranalysis - Skalar- und Vektorfelder](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/VA01_Skalar_und_Vektorfelder.ipynb){target="_blank"}   
+[VA01 Vektoranalysis - Skalar- und Vektorfelder](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/VA01_Skalar_und_Vektorfelder.ipynb){:target="_blank"}   
 
 **Vorlesung Statistik**   
 

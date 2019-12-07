@@ -14,13 +14,13 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 
 **Vorlesung Mathematische Grundlagen**  
 
-AN01 Analysis - Funktionen  
-AN02 Analysis - Differentialrechnung  
-AN03 Analysis - Integralrechnung  
-LA01 Lineare Algebra - Vektoren  
+[AN01 Analysis - Funktionen](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/AN01_Analysis_Funktionen.ipynb)  
+[AN02 Analysis - Differentialrechnung](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/AN02_Analysis_Differentialrechnung.ipynb)  
+[AN03 Analysis - Integralrechnung](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/AN03_Analysis_Integralrechnung.ipynb)  
+[LA01 Lineare Algebra - Vektoren](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/LA01_Lineare_Algebra_Vektoren.ipynb)  
 LA02 Lineare Algebra - Matrizen   
 LA03 Lineare Algebra - Determinanten    
-KM01 Komplexe Zahlen - Grundlagen  
+[KM01 Komplexe Zahlen - Grundlagen](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/KM01_Komplexe_Zahlen_Grundlagen.ipynb){:target="_blank"}  
 
 **Vorlesung Ingenieurmathematik 2**  
 
@@ -28,8 +28,8 @@ DG01 Gew. Differentialgleichungen - Grundlagen
 DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden   
 DG03 Gew. Differentialgleichungen - Numerische Methoden  
 DG04 Gew. Differentialgleichungen - Laplace Transformation    
-VA02 Vektoranalysis - Differentialoperatoren  
-VA03 Vektoranalysis - Integralsätze  
+[VA02 Vektoranalysis - Differentialoperatoren](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/VA02_Vektoranalysis_Differentialoperatoren.ipynb)  
+[VA03 Vektoranalysis - Integralsätze](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/VA03_Vektoranalysis_Integrals%C3%A4tze.ipynb)  
 
 **Vorlesung Simulationstechnik** 
  
@@ -48,7 +48,7 @@ AN04 Analysis - Extremwertberechnung und Optimierung
 AN05 Analysis - Folgen und Reihen   
 LA04 Lineare Algebra - Lineare Gleichungssysteme   
 LA05 Lineare Algebra - Eigenwerte  
-KM02 Komplexe Zahlen - Anwendungen  
+[KM02 Komplexe Zahlen - Anwendungen)(https://github.com/tobschaffer/vorlesungen-tcc/blob/master/KM02_Komplexe_Zahlen_Anwendungen.ipynb){:target="_blank"}  
 [VA01 Vektoranalysis - Skalar- und Vektorfelder](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/VA01_Skalar_und_Vektorfelder.ipynb){:target="_blank"}   
 
 **Vorlesung Statistik**   

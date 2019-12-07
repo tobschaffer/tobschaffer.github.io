@@ -24,7 +24,7 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 
 **Vorlesung Ingenieurmathematik 2**  
 
-[DG01 Gew. Differentialgleichungen - Grundlagen](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/DG01_Gew_Differentialgleichungen_Grundlagen.ipynb){:target="_blank"{:target="_blank"}}  
+[DG01 Gew. Differentialgleichungen - Grundlagen](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/DG01_Gew_Differentialgleichungen_Grundlagen.ipynb){:target="_blank"}  
 [DG02 Gew. Differentialgleichungen - Analytische Lösungsmethoden](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/DG02_Gew_Differentialgleichungen_Analytische_L%C3%B6sungsmethoden.ipynb){:target="_blank"}   
 [DG03 Gew. Differentialgleichungen - Numerische Methoden](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/DG03_Gew_Differentialgleichungen_Numerische_Methoden.ipynb){:target="_blank"}  
 [DG04 Gew. Differentialgleichungen - Laplace Transformation](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/DG04_Gew_Differentialgleichungen_Laplace_Transformation.ipynb){:target="_blank"}    

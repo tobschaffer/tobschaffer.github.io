@@ -48,7 +48,7 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 [AN05 Analysis - Folgen und Reihen](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/AN05_Analysis_Folgen_und_Reihen.ipynb){:target="_blank"}   
 [LA04 Lineare Algebra - Lineare Gleichungssysteme](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/LA04_Lineare_Algebra_Lineare_Gleichungssysteme.ipynb){:target="_blank"}   
 [LA05 Lineare Algebra - Eigenwerte](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/LA05_Lineare_Algebra_Eigenwerte.ipynb){:target="_blank"}  
-[KM02 Komplexe Zahlen - Anwendungen)(https://github.com/tobschaffer/vorlesungen-tcc/blob/master/KM02_Komplexe_Zahlen_Anwendungen.ipynb){:target="_blank"}  
+[KM02 Komplexe Zahlen - Anwendungen](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/KM02_Komplexe_Zahlen_Anwendungen.ipynb){:target="_blank"}  
 [VA01 Vektoranalysis - Skalar- und Vektorfelder](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/VA01_Skalar_und_Vektorfelder.ipynb){:target="_blank"}   
 
 **Vorlesung Statistik**   

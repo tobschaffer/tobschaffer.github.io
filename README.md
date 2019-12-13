@@ -37,6 +37,9 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 [SI02 Simulationstechnik - Mehrkörpersimulation](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/SI02_Simulationstechnik_Mehrk%C3%B6rpersimulation.ipynb){:target="_blank"}  
 [SI03 Simulationstechnik - Lineare zeitinvariante Systeme](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/SI03_Simulationstechnik_Lineare_zeitinvariante_Systeme.ipynb){:target="_blank"}  
 [SI04 Simulationstechnik - FEM Simulation](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/SI04_Simulationstechnik_FEM_Simulation.ipynb){:target="_blank"}  
+  
+Scilab code:  
+[Finite Differenzen](https://drive.google.com/file/d/1OtoJF006bC-WXruRBf4bCjnBGzUbbAO5/view?usp=sharing){:target="_blank"}  
 
 ## Vergangene Vorlesungen  
 

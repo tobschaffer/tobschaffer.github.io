@@ -39,6 +39,7 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 [SI04 Simulationstechnik - FEM Simulation](https://github.com/tobschaffer/vorlesungen-tcc/blob/master/SI04_Simulationstechnik_FEM_Simulation.ipynb){:target="_blank"}  
   
 Scilab code:  
+[Wagen Feder](https://drive.google.com/file/d/1YjtPSNb3XGOf3g_AuAecX5dW9C0udM85/view?usp=sharing){:target="_blank"}  
 [Finite Differenzen](https://drive.google.com/file/d/1OtoJF006bC-WXruRBf4bCjnBGzUbbAO5/view?usp=sharing){:target="_blank"}  
 
 ## Vergangene Vorlesungen  

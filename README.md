@@ -42,6 +42,10 @@ Scilab code:
 [Wagen Feder](https://drive.google.com/file/d/1YjtPSNb3XGOf3g_AuAecX5dW9C0udM85/view?usp=sharing){:target="_blank"}  
 [Finite Differenzen](https://drive.google.com/file/d/1OtoJF006bC-WXruRBf4bCjnBGzUbbAO5/view?usp=sharing){:target="_blank"}  
 
+Übungen:  
+[Aufgaben](https://drive.google.com/file/d/1YjtPSNb3XGOf3g_AuAecX5dW9C0udM85/view?usp=sharing){:target="_blank"}  
+[Formeln](https://drive.google.com/file/d/0B2hEhFZzpChjVEVpbnRnNTJGUk0/view?usp=sharing){:target="_blank"}  
+
 ## Vergangene Vorlesungen  
 
 ### Sommersemester 2019:  

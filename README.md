@@ -31,7 +31,9 @@ ST03 Statistik - Deskriptive Statistik
 ST04 Statistik - Induktive Statistik  
 
 
-### Wintersemester 2019/20  
+## Vergangene Vorlesungen  
+
+### Wintersemester 2019/20   
 
 **Vorlesung Mathematische Grundlagen**  
 
@@ -66,8 +68,6 @@ Scilab code:
 Übungen:  
 [Aufgaben](https://drive.google.com/file/d/0B2hEhFZzpChjVEVpbnRnNTJGUk0/view?usp=sharing){:target="_blank"}  
 [Formeln](https://drive.google.com/file/d/0B2hEhFZzpChjNVpORC1XUzdJUEk/view?usp=sharing){:target="_blank"}  
-
-## Vergangene Vorlesungen  
 
 ### Sommersemester 2019:  
 

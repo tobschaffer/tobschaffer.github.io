@@ -16,7 +16,7 @@ Da der Vorlesungsbeginn für das Sommersemester 2020 auf 20. April verschoben wu
 
 **Vorlesung Ingenieurmathematik 1**  
 
-[LA04 Lineare Algebra - Eigenwerte](https://colab.research.google.com/drive/1vckLUGXR02eNn3lkK4V5AzlCZmouYOrs){:target="_blank"}  
+LA04 Lineare Algebra - Eigenwerte **(ab Fr. 20.03.2020)**  
 LA05 Lineare Algebra - Lineare Gleichungssysteme  
 AN04 Analysis - Extremwertberechnung und Optimierung  
 AN05 Analysis - Folgen und Reihen  
@@ -25,10 +25,13 @@ VA01 Vektoranalysis - Skalar- und Vektorfelder
 
 **Vorlesung Statistik**   
 
-ST01 Statistik - Fehler- und Ausgleichsrechnung  
-ST02 Statistik - Wahrscheinlichkeitstheorie  
-ST03 Statistik - Deskriptive Statistik  
-ST04 Statistik - Induktive Statistik  
+ST01 Statistik - Wahrscheinlichkeitstheorie **(ab Fr. 20.03.2020)**  
+ST02 Statistik - Statistik  
+ST03 Statistik - Fehler- und Ausgleichsrechnung  
+
+**Simulationspraktikum**
+
+Informationen zu Projektarbeiten ab **Mi. 18.03.2020**  
 
 
 ## Vergangene Vorlesungen  

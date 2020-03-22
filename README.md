@@ -25,13 +25,13 @@ VA01 Vektoranalysis - Skalar- und Vektorfelder
 
 **Vorlesung Statistik**   
 
-ST01 Statistik - Wahrscheinlichkeitstheorie **(ab Fr. 20.03.2020)**  
+[ST01 Statistik - Wahrscheinlichkeitstheorie](https://colab.research.google.com/drive/19e-xoCOyUV1Chhd4UZtzx_Z2vuRQlqXu){:target="_blank"}   
 ST02 Statistik - Statistik  
 ST03 Statistik - Fehler- und Ausgleichsrechnung  
 
 **Simulationspraktikum**
 
-Informationen zu Projektarbeiten ab **Mi. 18.03.2020**  
+Informationen zu Projektarbeiten  
 
 
 ## Vergangene Vorlesungen  

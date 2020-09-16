@@ -1,4 +1,4 @@
-# Tobias Schaffer
+# Dipl.-Math. Tobias Schaffer
 
 [Aktuelle Vorlesungen](#aktuelle-vorlesungen)  
 [Vergangene Vorlesungen](#vergangene-vorlesungen)  
@@ -161,7 +161,7 @@ Lehrauftrag am Technologie Campus Cham, TH Deggendorf
 Vorlesungen Ingenieurmathematik, Statistik, Physik, Simulationstechnik  
 
 **Seit 2011:**  
-Softwareentwicklung im Sondermaschinenbau, Nohau Industrieelektronik Produktionssysteme GmbH, [nohau-gmbh.de](http://www.nohau-gmbh.de){:target="_blank"}     
+Softwareentwicklung im Sondermaschinenbau, Nohau Industrieelektronik Produktionssysteme GmbH   
 
 **2004 bis 2010:**  
 Studium Mathematik und Philosophie, Universität Regensburg  

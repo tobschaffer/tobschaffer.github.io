@@ -12,20 +12,18 @@ Bachelor Digitale Produktion/Bachelor Mechatronik Dual
 
 ### Sommersemester 2020   
 
-Da der Vorlesungsbeginn für das Sommersemester 2020 auf 20. April verschoben wurde, werden die entsprechenden Vorlesungsinhalte und Übungsaufgaben unter den nachfolgenden Links online angeboten:  
-
 **Vorlesung Ingenieurmathematik 1**  
 
-[LA04 Lineare Algebra - Eigenwerte](https://colab.research.google.com/drive/1vckLUGXR02eNn3lkK4V5AzlCZmouYOrs){:target="_blank"}      
-[LA05 Lineare Algebra - Lineare Gleichungssysteme](https://colab.research.google.com/drive/1-H-g30IUxBP8FSiYqvcq0fFPWy5B_r3_){:target="_blank"}  
-[AN04 Analysis - Extremwertberechnung und Optimierung](https://colab.research.google.com/drive/1IasrG9313yzPZag3F8ZiNw1kTSFlpcZm){:target="_blank"}  
+LA04 Lineare Algebra - Eigenwerte   
+LA05 Lineare Algebra - Lineare Gleichungssysteme    
+AN04 Analysis - Extremwertberechnung und Optimierung   
 AN05 Analysis - Folgen und Reihen  
 KM02 Komplexe Zahlen - Anwendungen  
 VA01 Vektoranalysis - Skalar- und Vektorfelder  
 
 **Vorlesung Statistik**   
 
-[ST01 Statistik - Wahrscheinlichkeitstheorie](https://colab.research.google.com/drive/19e-xoCOyUV1Chhd4UZtzx_Z2vuRQlqXu){:target="_blank"}   
+ST01 Statistik - Wahrscheinlichkeitstheorie
 ST02 Statistik - Statistik  
 ST03 Statistik - Fehler- und Ausgleichsrechnung  
 
@@ -63,14 +61,6 @@ SI01 Simulationstechnik - Grundlagen
 SI02 Simulationstechnik - Mehrkörpersimulation  
 SI03 Simulationstechnik - Lineare zeitinvariante Systeme  
 SI04 Simulationstechnik - FEM Simulation  
-  
-Scilab code:  
-[Wagen Feder](https://drive.google.com/file/d/1YjtPSNb3XGOf3g_AuAecX5dW9C0udM85/view?usp=sharing){:target="_blank"}  
-[Finite Differenzen](https://drive.google.com/file/d/1OtoJF006bC-WXruRBf4bCjnBGzUbbAO5/view?usp=sharing){:target="_blank"}  
-
-Übungen:  
-[Aufgaben](https://drive.google.com/file/d/0B2hEhFZzpChjVEVpbnRnNTJGUk0/view?usp=sharing){:target="_blank"}  
-[Formeln](https://drive.google.com/file/d/0B2hEhFZzpChjNVpORC1XUzdJUEk/view?usp=sharing){:target="_blank"}  
 
 ### Sommersemester 2019:  
 
@@ -164,7 +154,7 @@ Doktorarbeit am Institut für Biophysik, Universität Regensburg
 Computational Intelligence and Machine Learning Group, Prof. Dr. Elmar Lang  
 
 **Seit 2017**   
-Selbstständige Tätigkeit im Nebenerwerb, Softwareentwickling Cloud & KI Systeme, [schafferit.de](http://www.schafferit.de){:target="_blank"}
+Selbstständige Tätigkeit im Nebenerwerb, Softwareentwickling KI-Systeme
 
 **Seit 2013:**  
 Lehrauftrag am Technologie Campus Cham, TH Deggendorf  

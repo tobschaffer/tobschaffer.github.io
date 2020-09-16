@@ -142,8 +142,7 @@ Ingenieurmathematik 2
 **Tobias Schaffer**  
 Kirchstr. 13  
 93199 Zell  
-
-Telefon: 09468 3096890  
+ 
 [schaffer.tobias@gmail.com](mailto:schaffer.tobias@gmail.com)  
 
 [twitter.com/tobschaffer](http://twitter.com/tobschaffer){:target="_blank"}     
